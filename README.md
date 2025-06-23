@@ -24,8 +24,8 @@ http://localhost:3000/api
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/seller-dashboard-project.git
-cd backend
+git clone  https://github.com/MoniaBellil/seller-dashboard.git
+cd product-catalog
 npm install
 
 cd ../frontend
